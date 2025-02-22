@@ -12,4 +12,6 @@ To run on your own computer:
 
 FUTURE IMPROVEMENTS:
 #1. Clean up PatternGenerate script and turn it into an appropriate class.
-#2
+#2. Implement various other pattern genereation algorithms and compare them.
+#3. Test attack accuracy with new metrics.
+#4. Try different subset variations for student and teacher models.
